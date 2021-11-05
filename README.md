@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Peepbo :cat:
 - 👀 I’m interested in making games :video_game:
 - 🌱 I’m currently learning to make games with Unreal Engine :gear:
+- ✏️ Coding tests are studying with BAEKJOON and Programmers ➿
 - 📫 How to reach me : Send Email :e-mail:
 
 :e-mail: : tngus10778@gmail.com
