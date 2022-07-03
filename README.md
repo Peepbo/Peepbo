@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Peepbo :cat:
 - 👀 I’m interested in making games :video_game:
 - 🌱 I’m currently learning to make games with Unreal Engine :gear:
+- :books: I’m currently doing an internship at a game company :hourglass:  
 - ✏️ Websites to study coding tests are BAEKJOON and Programmers ➿
 - 📫 How to reach me : Send Email :e-mail:
 
